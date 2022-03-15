@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shahiutsav
-- 👀 I’m interested in Game Designing and Game Development overall.
-- 🌱 I’m currently learning Unity and C#.
-- 💞️ I’m looking to collaborate on Game Projects and anything code related.
+- 👀 I’m interested in Web Development overall.
+- 🌱 I’m currently learning frontend and backend(everything well rounded).
+- 💞️ I’m looking forward to becoming a full stack developer.
 - 📫 You can reach me via LinkedIn: https://www.linkedin.com/in/utsav-shahi-24519119a/
