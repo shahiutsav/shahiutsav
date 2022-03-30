@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shahiutsav
-- 👀 I’m interested in Web Development overall.
+- 👀 I’m involved in fullstack web development.
 - 🌱 I’m currently learning frontend and backend(everything well rounded).
 - 💞️ I’m looking forward to becoming a full stack developer.
 - 📫 You can reach me via LinkedIn: https://www.linkedin.com/in/utsav-shahi-24519119a/
