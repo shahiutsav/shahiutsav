@@ -1,15 +1,21 @@
-# **Hi, I'm [Utsav Shahi](https://www.linkedin.com/in/shahiutsav)!**
+# 💫 About Me:
+Hi there! I'm Utsav Shahi, a passionate software developer with expertise in Flutter. I'm always looking for new and exciting ways to build innovative mobile applications that solve real-world problems and deliver an exceptional user experience.<br><br>I have extensive experience in developing high-performance Flutter applications for both Android and iOS platforms. I'm comfortable working with a range of development tools, frameworks, and libraries, and I'm always on the lookout for new technologies to add to my toolkit.<br><br>When it comes to developing software, I prioritize clean, efficient code and strive to deliver robust, scalable solutions that meet my clients' needs. I'm also a big believer in continuous learning and professional development, and I'm always seeking out new opportunities to improve my skills and stay up-to-date with the latest trends in software development.<br><br>Whether you're looking for a Flutter developer to help bring your mobile app idea to life, or you're simply looking for someone to collaborate with on your next project, I'm always open to new opportunities and would love to hear from you.
 
-_Flutter Developer at [InitHive Solutions](https://inithive.com/)_ <br>
-_A Computing Graduate from [Coventry University](https://www.coventry.ac.uk/)_
 
-I am an aspiring developer who enjoys connecting the dots: be it ideas from different disciplines, people from different teams, or applications from different industries.
-<br>
-<br>
-## **Languages & Tools**
-<img alt="Flutter Logo" height="40" src="https://user-images.githubusercontent.com/51419598/152648731-567997ec-ac1c-4a9c-a816-a1fb1882abbe.png">    <img alt="Dart Logo" height="40" src="https://dart-code.gallerycdn.vsassets.io/extensions/dart-code/dart-code/3.57.20221221/1671630165312/Microsoft.VisualStudio.Services.Icons.Default">    <img alt="HTML Logo" height="40" src="https://cdn-icons-png.flaticon.com/512/732/732212.png">    <img alt="CSS Logo" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png">    <img alt="Javascript Logo" height="40" src="https://cdn.freebiesupply.com/logos/large/2x/logo-javascript-logo-png-transparent.png">    <img alt="NodeJS Logo" height="40" src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-icon-logo-png-transparent.png">    <img alt="React Logo" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png">
-<br>
-<br>
-## **_Languages Over Last Year_**
-![](https://wakatime.com/share/@ingine/123542b1-8da3-492a-8975-d09b38a7d9e8.svg)
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shahiutsav) 
 
+# 💻 Tech Stack:
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=shahiutsav&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=shahiutsav&theme=great-gatsby&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shahiutsav&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+
+---
+[![](https://visitcount.itsvg.in/api?id=shahiutsav&icon=1&color=2)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
