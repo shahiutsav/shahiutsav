@@ -15,6 +15,9 @@ Hi there! I'm Utsav Shahi, a passionate software developer with expertise in Flu
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=shahiutsav&theme=chalk&no-frame=false&no-bg=true&margin-w=4)
 
+## ⏳ Languages Over Time
+![https://wakatime.com/share/@ingine/123542b1-8da3-492a-8975-d09b38a7d9e8.svg](https://wakatime.com/share/@ingine/89c074f1-0cb3-4dfe-9bea-302f1cf1211b.svg)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
 
