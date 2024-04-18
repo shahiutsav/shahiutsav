@@ -8,7 +8,7 @@ Debugging code is like finding a needle in a haystack, except the needle is also
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ingine&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ingine&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-## GitHub trophies because why no
+## GitHub trophies because why not
 ![](https://github-profile-trophy.vercel.app/?username=ingine&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### Here's a random meme you might find funny
