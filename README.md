@@ -19,8 +19,6 @@ Debugging code is like finding a needle in a haystack, except the needle is also
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shahiutsav&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shahiutsav&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=shahiutsav&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=shahiutsav&theme=radical&no-frame=false&no-bg=false&margin-w=4)
